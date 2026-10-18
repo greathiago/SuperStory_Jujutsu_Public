@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module sdkVersion="3.7b">
+    <id>SuperStoryJujutsu</id>
+    <version>1.3.1</version>
+
+    <info lang="pt-BR">
+        <name>SuperStory - Jujutsu</name>
+        <description>Ficha de Personagem para o Sistema SuperStory - Adaptação Jujutsu</description>
+        <author>Greathiago</author>
+        <site>https://firecast.app</site>
+        <contact>Greathiago</contact>
+    </info>
+</module>
